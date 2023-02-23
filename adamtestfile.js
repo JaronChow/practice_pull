@@ -1,0 +1,1 @@
+const jaronSucksOnEggs = "Yeah Jaron sucks on eggs hard";
